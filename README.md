@@ -43,7 +43,21 @@ Currently exploring:
 
 ## 🚀 Projects
 
-> Work in progress — building now, will update soon.
+### ☕ CoffeeOS API
+A backend platform for coffee enthusiasts.
+
+- Brew recipe management (CRUD)
+- Coffee knowledge base
+- Market price & news integration *(in progress)*
+
+**Tech:** `Python` `FastAPI` `SQLAlchemy` `SQLite`
+
+🔗 [github.com/thirrawlya/api-magang](https://github.com/thirrawlya/api-magang)
+
+---
+
+### 📈 PriceWatch ID
+*(Coming soon — product price monitoring for Indonesian marketplaces)*
 
 ---
 
