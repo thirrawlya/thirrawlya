@@ -52,7 +52,7 @@ A backend platform for coffee enthusiasts.
 
 **Tech:** `Python` `FastAPI` `SQLAlchemy` `SQLite`
 
-🔗 [github.com/thirrawlya/api-magang](https://github.com/thirrawlya/Coffeeos)
+🔗 [https://github.com/thirrawlya/Coffeeos]
 
 ---
 
