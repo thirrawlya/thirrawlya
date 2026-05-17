@@ -1,81 +1,59 @@
-<h1 align="center">🧪 thirrawlya 🛠️</h1>
+<h1 align="center">thirrawlya</h1>
 
 <p align="center">
-  <b>Tempat semua hal eksperimen gua — dari yang gagal total sampai yang lumayan jadi.</b><br>
-  Journey gua sebagai pembelajar mandiri di dunia Web Development & Cyber Security. 🚀
+  Informatics Student @ President University &nbsp;•&nbsp; Backend Enthusiast &nbsp;•&nbsp; Linux User
+</p>
+
+<p align="center">
+  Building things, breaking things, and learning from both.
 </p>
 
 ---
 
-## 🔍 Tentang Repo Ini
+## About Me
 
-Repo ini gua buat sebagai ruang pribadi untuk nyimpan berbagai project, eksperimen, dan portofolio gua, khususnya yang berkaitan dengan:
+Hi, I'm Thirr — an Informatics student focused on backend development and building practical software.
 
-- 💻 Web Development (HTML, CSS, JavaScript, PHP)
-- 🛡️ Cyber Security (masih awal banget, pelan-pelan gua dokumentasiin)
-- ❌ Project gagal yang tetap gua simpan sebagai jejak belajar
-- 📁 File-file dan komponen yang suatu saat mungkin akan gua butuhin lagi
+I enjoy turning ideas into working systems. Still learning, but I ship things.
 
-> Gua gak nyari kesempurnaan di sini, gua nyari **progres.** ✊
-
----
-
-## 📚 Isi dari Repo Ini
-
-| Kategori             | Penjelasan                                                                 |
-|----------------------|-----------------------------------------------------------------------------|
-| 🌐 Web Projects       | Kumpulan latihan frontend dan backend kecil-kecilan                        |
-| 🔐 Cyber Security     | Catatan awal eksplorasi tools & praktik dasar (belum kompleks)             |
-| 🧪 Eksperimen Gagal   | Project yang gak selesai atau gak jalan tapi tetap disimpen sebagai referensi |
-| 🧾 Portofolio Pribadi | Dokumentasi kecil-kecilan buat nunjukin perjalanan belajar gua             |
+Currently exploring:
+- ⚙️ Backend Engineering with Python & FastAPI
+- 🐧 Linux workflows & developer tooling
+- 🛡️ Networking & security fundamentals
+- ☕ Building real apps from real problems
 
 ---
 
-## 🎯 Tujuan
+## 🛠 Tech Stack
 
-Gua bikin repo ini buat:
+**Backend**
+- Python · FastAPI · SQLAlchemy
+- PHP (Laravel basics)
 
-- 📌 Dokumentasi proses belajar gua secara jujur
-- 🧠 Tempat nyimpen code yang mungkin bakal gua kembangin nanti
-- 🪞Ngaca perkembangan diri sendiri dari waktu ke waktu
-- 💬 Siapa tahu bisa bantu atau ngasih inspirasi ke orang lain juga
+**Database**
+- SQLite · PostgreSQL (learning)
 
----
+**Tools & Environment**
+- Linux (EndeavourOS) · Git · tmux · VSCode · Neovim
 
-## 🛠️ Teknologi / Tools yang Dipake
-
-- 🧱 **HTML, CSS, JS** (struktur dan interaksi web)
-- 🐘 **PHP Dasar** (untuk logic backend ringan)
-- 🕵️‍♂️ **Cyber Security Tools** (Wireshark, Burp Suite, dsb — masih basic)
-- 🗃️ Beberapa framework kemungkinan bakal ditambah di masa depan
+**Currently Learning**
+- Docker · API Integration · System Design
 
 ---
 
-## 🤝 Buat yang Mau Liat / Ikut Kontribusi
+## 🚀 Projects
 
-Repo ini mostly buat personal documentation gua. Tapi kalau lo:
-
-- Punya saran, kritik, atau mau kasih masukan — gua terbuka banget 🤝
-- Liat ada code yang menarik atau mau adaptasi — silakan 👍
-- Mau connect buat sharing seputar cyber/web dev — feel free!
-
-> Gua belum jago, tapi gua gak berhenti belajar.  
-> Terima kasih udah mampir 🙏
+> Work in progress — building now, will update soon.
 
 ---
 
-## 📫 Kontak (Optional Tambahan)
+## 📫 Connect
 
-Kalau lo pengen diskusi, ngobrol, atau sekadar connect, gua aktif di:
-
-- ✉️ [Email](mailto:yourmail@example.com) *(fathirbarhouti06@gmail.com)*
-- 🐦 [Instagram](https://twitter.com/yourtwitter) *(https://www.instagram.com/fthirb_/?hl=en)*
-- 🌐 [Portofolio Online](https://yourdomain.com) *(Belum tersedia)*
+- Email: fathirbarhouti06@gmail.com
+- Instagram: [@fthirb_](https://www.instagram.com/fthirb_)
 
 ---
 
-## 🪪 License
-
-MIT — bebas dipake, selama tetap menghargai karya orang ✨
-
----
+<p align="center">
+  <i>Still learning. Still building.</i>
+</p>
